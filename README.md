@@ -1,16 +1,7 @@
-# closet
+# closet (Шкаф)
 
 Simple flutter project with flexible containers
 
-## Getting Started
+![image](https://github.com/TIMISONG-dev/Closet/assets/63451549/05d3ffb0-e6cf-47c6-b8cb-06e64a806b37)
+![image](https://github.com/TIMISONG-dev/Closet/assets/63451549/e0619846-8b53-451d-bbd0-db5290262132)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
